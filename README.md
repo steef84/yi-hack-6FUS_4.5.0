@@ -1,4 +1,4 @@
-# Custom firmware for Yi home 1080p 6FUS 4.5.0 version (only)
+# Custom firmware for Yi home 1080p 6FUS and 9FUS 4.5.0 version (only)
 
 This firmware is completely based on the work done by TheCrypt0
 https://github.com/TheCrypt0/yi-hack-v4
@@ -54,6 +54,7 @@ Apart from RTSP, snapshot and ONVIF, all the features are copied from the TheCry
 Currently this project supports only the following camera:
 
 - Yi 1080p Home 6FUS with firmware 4.5.0.0A_201902261502, 4.5.0.0B_201909041616 or 4.5.0.0C_201910080934.
+- Yi 1080p Home 9FUS with 4.5.0.0A_201902261502 (unverified),  4.5.0.0B_201909041616 (unverified) or 4.5.0.0C_201910080934. (verified)
 
 This firmware is based on 4.5.0.0C and completely overwrite the original firmware.
 So, USE AT YOUR OWN RISK.
